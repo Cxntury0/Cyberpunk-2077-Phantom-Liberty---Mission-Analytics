@@ -54,15 +54,16 @@ IGNORE 1 ROWS
  gameplay_rating, difficulty_felt, replay_value, submitted_date);
  
  -- Verifying the loaded data
- USE phantom_liberty;
+USE phantom_liberty_analytics;
 SELECT 'missions',               COUNT(*) FROM missions               UNION ALL
 SELECT 'players',                COUNT(*) FROM players                UNION ALL
 SELECT 'player_mission_attempts',COUNT(*) FROM player_mission_attempts UNION ALL
 SELECT 'mission_ratings',        COUNT(*) FROM mission_ratings;
 
 /*Expected output:
-TableCountmissions 			35
-players 					900
-player_mission_attempts		35 000
-mission_ratings				14 600
+Table                    Count
+missions 			             35
+players 					            900
+player_mission_attempts	 35 000
+mission_ratings				      14 600
 */
