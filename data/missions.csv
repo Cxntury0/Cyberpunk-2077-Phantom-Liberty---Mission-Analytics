@@ -1,0 +1,36 @@
+mission_id,mission_name,mission_type,act,district,base_difficulty,estimated_playtime_mins,eddies_reward,xp_reward,has_multiple_endings
+1,Dog Eat Dog,Main,1,Dogtown,2,25,0,1200,0
+2,Hole in the Sky,Main,1,Dogtown,3,40,0,2500,0
+3,Spider and the Fly,Main,1,Dogtown,3,35,0,2200,0
+4,Lucretia My Reflection,Main,2,Dogtown,4,50,0,3500,1
+5,Through Pain to Heaven,Main,2,Dogtown,4,45,0,3200,0
+6,Leave in Silence,Main,2,Dogtown,3,30,0,2800,0
+7,Birds with Broken Wings,Main,2,Dogtown,3,35,0,2500,0
+8,Black Steel in the Hour of Chaos,Main,3,Dogtown,5,60,0,5000,1
+9,Somewhat Damaged,Main,3,Dogtown,5,55,0,4500,1
+10,Who Loves Ya Baby?,Main,3,Dogtown,4,45,0,4000,1
+11,You Know What You Have to Do,Main,3,Dogtown,4,40,0,3800,0
+12,The Killing Moon,Main,3,Dogtown,5,65,0,6000,1
+13,From Her to Eternity,Side,2,Dogtown,3,22,5000,1500,0
+14,The Damned,Side,2,Dogtown,3,25,4500,1800,0
+15,Get it Together,Side,1,Dogtown,2,18,3000,1200,0
+16,Treating Symptoms,Side,2,Dogtown,3,25,4000,1600,0
+17,Spy in the Jungle,Side,2,Dogtown,4,30,6000,2000,0
+18,Unfinished Sympathy,Side,3,Dogtown,4,35,7000,2200,1
+19,Roads to Redemption,Gig,1,Dogtown,2,15,2500,800,0
+20,Prototype in the Scraper,Gig,1,Dogtown,3,20,3500,1000,0
+21,Talent Academy,Gig,2,Dogtown,3,18,3000,900,0
+22,Heaviest of Hearts,Gig,2,Dogtown,3,15,2800,850,0
+23,Waiting for Dodger,Gig,1,Dogtown,2,12,2200,700,0
+24,Balls to the Wall,Gig,2,Dogtown,4,22,4000,1100,0
+25,Run This Town,Gig,2,Dogtown,3,18,3200,950,0
+26,Hot Merchandise,Gig,1,Dogtown,2,14,2400,750,0
+27,Extortion Racket,Gig,2,Dogtown,3,16,2900,880,0
+28,Raffen Shiv Disposal,Gig,2,Dogtown,4,20,3800,1050,0
+29,Heavenly Pod,Gig,3,Dogtown,4,25,4500,1200,0
+30,Disasterpiece,Gig,1,Dogtown,3,18,3000,900,0
+31,Stadium Love,NCPD,1,Dogtown,2,10,1500,500,0
+32,Hansen's War Room,NCPD,2,Dogtown,4,15,2000,700,0
+33,Cargo Intercept,NCPD,1,Dogtown,2,8,1200,400,0
+34,Black Market Bust,NCPD,2,Dogtown,3,12,1800,600,0
+35,Arms Dealer Takedown,NCPD,2,Dogtown,3,10,1600,550,0
